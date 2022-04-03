@@ -1,0 +1,7 @@
+{
+  "ReferenceSsmParamsInCdkStack": {
+    "importedPasswordParam": "db-password",
+    "importedEmailValue": "thabo@test.com",
+    "importedEnvsValue": "dev, test, prod"
+  }
+}
